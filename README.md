@@ -1,4 +1,4 @@
-### Skills 👨‍💻
+### Skills & Tools 👨‍💻
 
 ### ⚙️ &nbsp;GitHub Analytics
 
