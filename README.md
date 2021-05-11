@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p>
 <a href="https://github.com/zedsousa">
-  <img align="right"width="310em"  src="octocat.jpg"/>
+  <img align="right"width="500em"  src="octocat.jpg"/>
   <div align="left">
   <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zedsousa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zedsousa&count_private=true&theme=gruvbox" alt="zedsousa" /></br>
