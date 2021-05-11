@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zedsousa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zedsousa&layout=compact&langs_count=8&theme=gruvbox"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zedsousa&count_private=true&theme=gruvbox" alt="zedsousa" />
-  <img width="300em" height="180em" src="octocat.jpg"/>
+  <img width="310em"  src="octocat.jpg"/>
 </a>
 </p>
 
